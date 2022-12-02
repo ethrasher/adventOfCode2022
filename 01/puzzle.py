@@ -1,4 +1,3 @@
-#213159
 def readFile():
   file1 = open('puzzleInput.txt', 'r')
   lines = file1.readlines()
